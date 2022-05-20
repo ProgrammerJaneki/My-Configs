@@ -1,0 +1,9 @@
+/** Basic config file **/
+
+configuration {
+  display-drun: "Applications:";
+  modi : "window,run,drun";
+  font: "Source Code Pro 10";
+  show-icons:         true;
+  icon-theme:         "Papirus";
+}

@@ -1,0 +1,1 @@
+/path/to/lua-mpris/mpv.lua
